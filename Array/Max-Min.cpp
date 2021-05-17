@@ -9,7 +9,6 @@ struct Array
 void Display(struct Array arr)
 {
     int i;
-    cout<<endl<<"elements of array "<<endl;
     for ( i = 0; i < arr.length; i++)
     {
         printf("%d ",arr.A[i]);
@@ -42,6 +41,7 @@ int Min(struct Array arr)
 int main(){
 
 struct Array arr={{10,343,200,500,2},20,5};
+cout<<"Array: ";
 Display(arr);
 cout<<"Maximum element is: "<<Max(arr)<<endl;
 cout<<"Minimum element is: "<<Min(arr);
