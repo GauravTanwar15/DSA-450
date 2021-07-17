@@ -28,7 +28,7 @@ public:
         
         return start->next;
     }
-}
+};
 int main(){
 
 return 0;
