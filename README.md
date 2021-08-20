@@ -6,3 +6,5 @@
  - Matrix
  - strings
  - Recursion
+ - Hashing
+ - 
