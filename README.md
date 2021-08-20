@@ -7,4 +7,4 @@
  - strings
  - Recursion
  - Hashing
- - 
+ - Stack & Queue
