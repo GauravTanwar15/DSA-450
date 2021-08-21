@@ -10,3 +10,4 @@
  - Stack & Queue
  - Dynamic programming
  - Greedy
+ - Binary Search
