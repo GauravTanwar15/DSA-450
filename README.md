@@ -9,3 +9,4 @@
  - Hashing
  - Stack & Queue
  - Dynamic programming
+ - Greedy
