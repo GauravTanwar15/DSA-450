@@ -8,3 +8,4 @@
  - Recursion
  - Hashing
  - Stack & Queue
+ - Dynamic programming
