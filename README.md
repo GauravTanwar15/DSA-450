@@ -12,3 +12,4 @@
  - Greedy
  - Binary Search
  - searching & sorting
+ - Binary Tree
