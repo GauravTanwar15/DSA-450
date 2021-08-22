@@ -11,3 +11,4 @@
  - Dynamic programming
  - Greedy
  - Binary Search
+ - searching & sorting
