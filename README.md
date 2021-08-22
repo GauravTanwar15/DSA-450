@@ -13,3 +13,4 @@
  - Binary Search
  - searching & sorting
  - Binary Tree
+ - BST
