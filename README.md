@@ -15,3 +15,4 @@
  - Binary Tree
  - BST
  - trie
+ - Heap
