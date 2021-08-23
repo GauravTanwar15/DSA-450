@@ -14,3 +14,4 @@
  - searching & sorting
  - Binary Tree
  - BST
+ - trie
