@@ -16,3 +16,4 @@
  - BST
  - trie
  - Heap
+ - Graph
