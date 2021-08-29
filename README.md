@@ -14,5 +14,4 @@
  - searching & sorting
  - Binary Tree
  - BST
- - Heap
  - Backtracking
