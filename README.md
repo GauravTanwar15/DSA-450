@@ -15,5 +15,4 @@
  - Binary Tree
  - BST
  - Heap
- - Graph
  - Backtracking
